@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+nltk
+wordcloud
+scikit-learn
+matplotlib
+reportlab
+python-multipart
+bcrypt
+pyjwt
